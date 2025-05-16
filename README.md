@@ -3,7 +3,7 @@ This project is a modern and responsive sidebar navigation UI built using HTML a
 # overwiew-
 ![image](https://github.com/user-attachments/assets/65c72f7a-5db0-4e87-86f1-b2f6900c3928)
 
-# 🌟 Features
+## 🌟 Features
 Stylish sidebar with a blurred/dark overlay effect
 
 Clean and intuitive navigation menu
@@ -12,7 +12,7 @@ Fully responsive design
 
 Font-based icons for a visually appealing interface
 
-# Sidebar content includes:
+### Sidebar content includes:
 
 - Gallery
 - Shortcuts
@@ -24,25 +24,25 @@ Font-based icons for a visually appealing interface
 
 Social media icons (Facebook, Twitter, Instagram, YouTube)
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 HTML5 – for markup structure
 
 CSS3 – for layout, design, and styling
 
-# 🚀 How to Use
+## 🚀 How to Use
 Clone or download the project files.
 
 Open index.html in your browser.
 
 Explore the sidebar and test its responsiveness.
 
-bash
-Copy
-Edit
-git clone <https://github.com/Avdhesh-maurya/Minimal-Sidebar-Design.git>
-cd sidebar-project
-open index.html
-#📌 Note
+- bash
+- Copy
+- Edit
+- git clone <https://github.com/Avdhesh-maurya/Minimal-Sidebar-Design.git>
+- cd sidebar-project
+- open index.html
+## 📌 Note
 This sidebar is a static UI prototype; no JavaScript functionality is included.
 
 Designed purely with HTML & CSS for learning and practice purposes.
